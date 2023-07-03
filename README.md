@@ -4,7 +4,7 @@
 
 
 Welcome to my profile! I'm Tamara, a curiosity-driven software developer based in Chile.
-I love learning new things and challenging myself. I've always loved technology, but just recently discovered my love for programming.
+I love learning new things and challenging myself. I've always loved technology, but just recently discovered my love for programming :)
 
 ## 🧰 My Toolbox ‧₊˚
 
