@@ -21,7 +21,7 @@ I love learning new things and challenging myself. I've always loved technology,
 
 ## ⭐ Stats ‧₊˚
 
-![TamaraAguilar's github stats](https://github-readme-stats.vercel.app/api?username=TamaraAguilar&show_icons=true&theme=dracula)
+![TamaraAguilar's github stats](https://github-readme-stats-963wre4h9-tamaras-projects-3982fa36.vercel.app/api?username=TamaraAguilar&show_icons=true&theme=dracula)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f66b91&width=435&lines=Thank+you+for+visiting!)](https://git.io/typing-svg)
